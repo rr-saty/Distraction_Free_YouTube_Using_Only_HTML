@@ -70,12 +70,6 @@ Distraction_Free_YouTube_Using_Only_HTML/
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## 👤 Author
 
 Made with ❤️ — feel free to fork and make it your own!
